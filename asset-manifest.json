@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/things/static/css/main.5418b10a.css",
-    "main.js": "/things/static/js/main.bd680454.js",
+    "main.css": "/things/static/css/main.5de57f5c.css",
+    "main.js": "/things/static/js/main.16d1f566.js",
     "static/media/BuenosAires.jpg": "/things/static/media/BuenosAires.bc852ab37be05e1d79a4.jpg",
     "static/media/Paris.jpg": "/things/static/media/Paris.cc27e35091556c2b2c33.jpg",
     "static/media/Madrid.jpg": "/things/static/media/Madrid.b440b6cb5d8a275ec293.jpg",
     "static/media/Sidney.jpg": "/things/static/media/Sidney.212befd3a5936213842b.jpg",
     "static/media/NewYork.jpg": "/things/static/media/NewYork.f91764b89aac12f1180d.jpg",
     "static/media/Tokyo.jpg": "/things/static/media/Tokyo.265e255d8730747ec535.jpg",
+    "static/media/background.jpg": "/things/static/media/background.b843019d6ec5bc5e6eb0.jpg",
+    "static/media/avatar.jpg": "/things/static/media/avatar.b91e88b405c168e64cd2.jpg",
     "index.html": "/things/index.html",
     "static/media/grid.svg": "/things/static/media/grid.d158d35b5609cd5a6ef1bc27b42c0684.svg",
-    "main.5418b10a.css.map": "/things/static/css/main.5418b10a.css.map",
-    "main.bd680454.js.map": "/things/static/js/main.bd680454.js.map"
+    "main.5de57f5c.css.map": "/things/static/css/main.5de57f5c.css.map",
+    "main.16d1f566.js.map": "/things/static/js/main.16d1f566.js.map"
   },
   "entrypoints": [
-    "static/css/main.5418b10a.css",
-    "static/js/main.bd680454.js"
+    "static/css/main.5de57f5c.css",
+    "static/js/main.16d1f566.js"
   ]
 }

@@ -1,5 +1,4 @@
 import { AnimatePresence, motion } from 'framer-motion'
-import React, { useState } from 'react'
 import Skeleton from './Skeleton'
 import useMeasure from 'react-use-measure'
 

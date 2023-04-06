@@ -1,6 +1,6 @@
 # Things
 
-Things is a personal project created with React.js that serves as a portfolio showcasing mini-projects of animations and good-loking UI. These are mainly created with Framer Motion.
+Things is a personal project created with React.js that serves as a portfolio showcasing mini-projects of animations and good-looking UI. These are mainly created with Framer Motion.
 
 ## 💻 Features
 

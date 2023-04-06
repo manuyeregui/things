@@ -107,7 +107,8 @@ export default function ResizableSteps() {
                     clickable
                     min={0.1}
                     max={0.8}
-                    default={0.2}
+                    defaultValue={0.2}
+                    decimals={2}
                     unit={'seconds'}
                     handler={handleDuration}
                 />

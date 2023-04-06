@@ -27,6 +27,7 @@ export default function Home({ links }) {
     <FullscreenBox>
 
         <div className='font-mono lowercase pt-12 px-20 text-white absolute top-0 left-0'>
+
           <h2 className='text-base mb-2'>
             Things
           </h2>
@@ -48,7 +49,7 @@ export default function Home({ links }) {
                   duration: 0.00001,
                   repeatDelay: blinkingSpeed,
                   repeatType: 'reverse',
-                  repeat: 6
+                  repeat: Infinity
                 }
               }}
             />
@@ -63,13 +64,13 @@ export default function Home({ links }) {
 
           <div className='flex flex-col mt-5'>
             {
-              links.map(e =>
+              links.map((e, i) =>
                 <Link
                   className='my-1 opacity-60 flex items-center group hover:opacity-100'
                   to={e.link}
                   key={e.link}
                 >
-                  <h3 className='text-base font-extralight'>{e.title}</h3>
+                  <h3 className='text-base font-extralight'>{`00${i} - ${e.title}`}</h3>
                   <span className='material-symbols-outlined hidden group-hover:block'>chevron_left</span>
                 </Link>
               )

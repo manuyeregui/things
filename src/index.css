@@ -13,18 +13,18 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
-input[type=color]::-webkit-color-swatch {
+input[type="color"]::-webkit-color-swatch {
   /*border-radius: 9999px;*/
-  border: none
+  border: none;
 }
 
-input[type=color]::-moz-color-swatch {
+input[type="color"]::-moz-color-swatch {
   /*border-radius: 9999px;*/
-  border: none
+  border: none;
 }
 
 ::-webkit-scrollbar {
